@@ -1,0 +1,31 @@
+A professor is teaching Introduction to Programming and 
+gets to the topic of recursion, but after reading his 
+prepared notes, one of his students seems particularly 
+perplexed and questions the teacher.
+
+"I don't understand, you said a recursive algorithm is a 
+function that calls itself?" the student asks.
+
+"Yes!" says the teacher.
+
+"So it's like a phone? Wouldn't it get a busy signal 
+trying to call itself?"
+
+"No, not like a phone, it's more like-" The teacher starts 
+to explain, but is cut off by the student.
+
+"Is it like a role call? Like when you call your own name?"
+
+"No," the teacher continues "It's not-"
+
+But the student immediately interrupts.
+
+"Like calling a bet? You bet on yourself?"
+
+"No!" The teacher finally blurts. "Look, I can see you're 
+confused. Why don't I tell you a joke my professor taught 
+me..."
+
+He clears his throat and begins.
+
+"A professor is teaching Introduction to Programming..."
